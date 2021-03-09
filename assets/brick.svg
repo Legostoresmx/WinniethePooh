@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.148" height="45.243" viewBox="0 0 37.148 45.243">
+  <g id="brick" transform="translate(-0.32 -0.424)" style="mix-blend-mode: darken;isolation: isolate">
+    <path id="Trazado_4" data-name="Trazado 4" d="M1.184,10.522l17.5-8.37,17.921,8.27V34.727l-16.76,9.782L1.184,34.827Z" transform="translate(0 0.172)" fill="#ffffff00" stroke="#ffffff" stroke-width="1.727"/>
+    <path id="Trazado_5" data-name="Trazado 5" d="M25.263,3.924C24.842,2.312,21.463,1,17.556,1c-4.224,0-7.814,1.412-7.92,3.328,0,0,.212,4.741.212,4.841,0,2.32,3.8,3.934,7.814,3.934,4.118,0,7.813-1.614,7.813-3.934V5.639a2.729,2.729,0,0,0-.21-1.715Z" transform="translate(1.264 0)" fill="#ffffff00" stroke="#ffffff" stroke-width="1.152"/>
+    <path id="Trazado_6" data-name="Trazado 6" d="M10.094,4.767c.106-1.816,3.38-3.328,7.391-3.328s7.288,1.513,7.393,3.328C24.984,6.683,21.71,8.2,17.487,8.2S9.988,6.582,10.1,4.767h0Z" transform="translate(1.332 0.066)" fill="none" stroke="#ffffff" stroke-width="1.152"/>
+    <path id="Trazado_7" data-name="Trazado 7" d="M2,10.018l17.243,8.3V43.354m0-25.289L36.06,9.878" transform="translate(0.122 1.327)" fill="none" stroke="#ffffff" stroke-width="1.727"/>
+  </g>
+</svg>
