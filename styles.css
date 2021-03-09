@@ -3,7 +3,7 @@ body {
     padding: 0;
     font-family: 'Montserrat', sans-serif;
     color: white;
-    background-color: #F4BF54;
+    background-color: #fde8d0;
 }
 
 /* inciio header */
@@ -52,6 +52,7 @@ header{
 
 .img_principal{
     width: 100%;
+    max-width: 100%;
     display: flex;
     justify-content: center;
 }
@@ -63,12 +64,20 @@ header{
     height: 100%; */
 }
 
+.product{
+    text-align: center;
+}
+
 .product h1{
     font-size: 39px;
     margin: 0px 38px;
-    color: #ff1c0b7a;
+    color: #000000;
 }
 
+.product-ideas{
+    max-height: 1em;
+    width: auto;
+}
 
 .countdown__container{
     /* background-image: url('./assets/911-logoopacity.png'); */
@@ -114,6 +123,11 @@ header{
     margin: 0px 38px 25px;
 }
 
+.product--description--title{
+    color: #f6c45e;
+    text-shadow: -1px 2px 3px rgb(0 0 0 / 40%), 0px 6px 9px rgb(0 0 0 / 10%), 0px 8px 6px rgb(0 0 0 / 10%);
+}
+
 .product--description p{
     margin: 0;
     color: #ffffff91;
@@ -128,6 +142,7 @@ header{
 
 /* inicio info section */
 .hero-porsche{
+    margin-top: -80px;
     background-image: url("./assets/BACK\ LANDING-02.png");
     background-size: cover;
     background-position: center center;
@@ -144,6 +159,7 @@ header{
     justify-content: space-around;
     margin: 0px 38px 50px;
     padding-top: 25px;
+    color: #000000;
 }
 
 .icon img{
@@ -176,7 +192,8 @@ header{
 }
 
 .title--gallery img{
-    width: 80%;
+    max-height: 20vh;
+    width: auto;
 }
 
 .images--container{
@@ -187,6 +204,11 @@ header{
     padding-bottom: 50px;
  
 }
+
+.main--grid{
+    padding-bottom: 100px;
+}
+
 
 .images--grid{
     width: 100%;
@@ -255,6 +277,8 @@ header{
 
 .step--title{
     margin-top: 25px;
+    color: #000000;
+    text-shadow: -1px 2px 3px rgb(0 0 0 / 40%), 0px 6px 9px rgb(0 0 0 / 10%), 0px 8px 6px rgb(0 0 0 / 10%);
 }
 
 .step--title p{
@@ -270,7 +294,8 @@ header{
 
 .step--description p{
     margin: 0;
-    color: #ffffff9c;
+    color: #000000;
+    
 }
 
 .button:hover{
