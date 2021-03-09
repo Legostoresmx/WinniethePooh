@@ -59,6 +59,7 @@ header{
 
 .img_principal img{
     max-height: 60vh;
+    width: 100%;
     width: auto;
     /* width: 100%;
     height: 100%; */
